@@ -8,7 +8,9 @@
         "source": "/app/**",
         "destination": "/app/index.html"
       }
-    ]
+    ],
+    "cleanUrls": true,
+    "trailingSlash": false
   },
   "emulators": {
     "hosting": {
