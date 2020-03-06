@@ -1,0 +1,15 @@
+{
+  "name": "symptoms-web",
+  "version": "1.0.0",
+  "description": "Agglutinates all symptoms web components in order to jointly deploy them",
+  "main": "index.js",
+  "scripts": {
+    "build": "node -r esm index.js",
+    "deploy": "firebase deploy --only hosting"
+  },
+  "author": "Alberto González <algonzal@uji.es>",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}

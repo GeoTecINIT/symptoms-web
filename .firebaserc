@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "symptoms-dev"
+  },
+  "targets": {
+    "symptoms-dev": {
+      "hosting": {
+        "home": [
+          "symptoms-home"
+        ],
+        "web": [
+          "symptoms-dev"
+        ]
+      }
+    }
+  }
+}

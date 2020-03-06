@@ -1,0 +1,6 @@
+[submodule "symptoms-webapp"]
+	path = symptoms-webapp
+	url = https://github.com/GeoTecINIT/symptoms-webapp.git
+[submodule "symptoms-info-web"]
+	path = symptoms-info-web
+	url = https://github.com/GeoTecINIT/symptoms-info-web.git

@@ -1,0 +1,12 @@
+[
+  {
+    "basePath": "/",
+    "source": "symptoms-info-web"
+  },
+  {
+    "basePath": "/app",
+    "source": "symptoms-webapp",
+    "angularApp": true,
+    "productionEnv": false
+  }
+]
